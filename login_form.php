@@ -10,7 +10,7 @@ LAST NAME: <input type="text" name="name2" />
 <br/>
 EMAIL ID: <input type="text" name="mailid" />
 <br/>
-<input type="submit" />
+REGISTER: <input type="submit" />
 
 </form>
 </html>
